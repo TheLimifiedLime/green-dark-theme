@@ -22,7 +22,7 @@
   --sn-stylekit-danger-color: #f80324;
   --sn-stylekit-danger-contrast-color: white;
 
-  --navigation-item-selected-background-color: magenta; /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
+  --navigation-item-selected-background-color: var(--background-color); /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
 
   --sn-stylekit-shadow-color: #c8c8c8;
   --sn-stylekit-background-color: var(--background-color); /* Note Column Background Color */
