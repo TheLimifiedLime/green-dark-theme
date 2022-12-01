@@ -26,9 +26,9 @@
   --sn-stylekit-contrast-border-color: #e3e3e3;
 
   /* Sidebar Color */
-  --sn-stylekit-secondary-background-color: #1C1D1E;
-  --sn-stylekit-secondary-foreground-color: magenta;
-  --sn-stylekit-secondary-border-color: #e3e3e3;
+  --sn-stylekit-secondary-background-color: #1C1D1E; /* Sidebar */
+  --sn-stylekit-secondary-foreground-color: white; /* Label Text Color */
+  --sn-stylekit-secondary-border-color: magenta;
 
   --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
   --sn-stylekit-secondary-contrast-foreground-color: #2e2e2e;
