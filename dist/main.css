@@ -2,6 +2,7 @@
   --sn-stylekit-neutral-color: #989898;
   --sn-stylekit-neutral-contrast-color: white;
 
+  /* Accent Color */
   --sn-stylekit-info-color: #255023;
   --sn-stylekit-info-contrast-color: white;
 
@@ -17,12 +18,14 @@
   --sn-stylekit-shadow-color: #c8c8c8;
   --sn-stylekit-background-color: #0F1011;
   --sn-stylekit-border-color: #e3e3e3;
-  --sn-stylekit-foreground-color: yellow;
+  /* Note Text Color */
+  --sn-stylekit-foreground-color: white; 
 
   --sn-stylekit-contrast-background-color: black;
   --sn-stylekit-contrast-foreground-color: #2e2e2e;
   --sn-stylekit-contrast-border-color: #e3e3e3;
 
+  /* Sidebar Color */
   --sn-stylekit-secondary-background-color: #1C1D1E;
   --sn-stylekit-secondary-foreground-color: #2e2e2e;
   --sn-stylekit-secondary-border-color: #e3e3e3;
