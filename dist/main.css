@@ -4,7 +4,7 @@
   --background-color: #0F1011;
   --foreground-color: #1C1D1E;
   --border-color: black;
-  --item-selected-color: black;
+  --note-selected-color: black;
   --text-color: white;
 
   --sn-stylekit-neutral-color: #989898;
@@ -22,17 +22,19 @@
   --sn-stylekit-danger-color: #f80324;
   --sn-stylekit-danger-contrast-color: white;
 
+  --navigation-item-selected-background-color: magenta; /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
+
   --sn-stylekit-shadow-color: #c8c8c8;
   --sn-stylekit-background-color: var(--background-color); /* Note Column Background Color */
   --sn-stylekit-border-color: var(--border-color); /* Border Lines Color */
   --sn-stylekit-foreground-color: var(--text-color);  /* Text Color for Note Column & Editor */
 
-  --sn-stylekit-contrast-background-color: var(--item-selected-color); /* Note Selected Color */
+  --sn-stylekit-contrast-background-color: var(--note-selected-color); /* Note Selected Color */
   --sn-stylekit-contrast-foreground-color: var(--text-color); /* Text Color For Note Column Header, Apperance Items, & Setting/Apperance Taskbar Icons */
   --sn-stylekit-contrast-border-color: #e3e3e3;
 
   --sn-stylekit-secondary-background-color: var(--foreground-color); /* Navigation Column Background Color */
-  --sn-stylekit-secondary-foreground-color: #2e2e2e;
+  --sn-stylekit-secondary-foreground-color: var(--text-color); /* Navigation Column Text Color */
   --sn-stylekit-secondary-border-color: #e3e3e3;
 
   --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
