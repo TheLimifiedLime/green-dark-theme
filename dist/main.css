@@ -3,6 +3,8 @@
   --accent-color: #255023;
   --background-color: #0F1011;
   --foreground-color: #1C1D1E;
+  --border-color: black;
+  --item-selected-color: black;
   --text-color: white;
 
   --sn-stylekit-neutral-color: #989898;
@@ -22,11 +24,11 @@
 
   --sn-stylekit-shadow-color: #c8c8c8;
   --sn-stylekit-background-color: var(--background-color); /* Note Column Background Color */
-  --sn-stylekit-border-color: #e3e3e3;
-  --sn-stylekit-foreground-color: var(--text-color);  /* Text Color */
+  --sn-stylekit-border-color: var(--border-color); /* Border Lines Color */
+  --sn-stylekit-foreground-color: var(--text-color);  /* Text Color for Note Column & Editor */
 
-  --sn-stylekit-contrast-background-color: #f6f6f6;
-  --sn-stylekit-contrast-foreground-color: #2e2e2e;
+  --sn-stylekit-contrast-background-color: var(--item-selected-color); /* Note Selected Color */
+  --sn-stylekit-contrast-foreground-color: var(--text-color); /* Text Color For Note Column Header, Apperance Items, & Setting/Apperance Taskbar Icons */
   --sn-stylekit-contrast-border-color: #e3e3e3;
 
   --sn-stylekit-secondary-background-color: var(--foreground-color); /* Navigation Column Background Color */
@@ -58,7 +60,7 @@
   --sn-stylekit-grey-5:  #f4f5f7;
   --sn-stylekit-grey-6:  #e5e5e5;
   
-  --sn-stylekit-accessory-tint-color-1:  #086dd6;
+  --sn-stylekit-accessory-tint-color-1:  var(--accent-color);
   --sn-stylekit-accessory-tint-color-2:  #ea6595;
   --sn-stylekit-accessory-tint-color-3:  #ebad00;
   --sn-stylekit-accessory-tint-color-4:  #7049cf;
