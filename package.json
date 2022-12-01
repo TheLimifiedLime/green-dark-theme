@@ -2,7 +2,7 @@
     "name": "green-dark-theme",
     "version": "1.0.0",
     "sn": {
-      "main": "main.css"
+      "main": "dist/main.css"
     }
   }
   
