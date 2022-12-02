@@ -3,16 +3,17 @@
   --accent-color: #255023;
   --background-color: #0F1011;
   --foreground-color: #1C1D1E;
-  --border-color: var(--background-color); /* This makes most borders invisible */
+  --border-color: var(--foreground-color);
   --note-selected-color: black;
   --text-color: white;
 
   /* Custom Selectors */
 
   --navigation-item-selected-background-color: var(--background-color); /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
+  --sn-stylekit-passive-color-3: var(--foreground-color)
 
   /* Normal Selectors */
-  
+
   --sn-stylekit-neutral-color: #989898;
   --sn-stylekit-neutral-contrast-color: white;
 
