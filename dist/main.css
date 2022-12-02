@@ -10,7 +10,7 @@
   /* Custom Selectors */
 
   --navigation-item-selected-background-color: var(--background-color); /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
-  --sn-stylekit-passive-color-3: var(--foreground-color)
+  --sn-stylekit-passive-color-3: var(--foreground-color);
 
   /* Normal Selectors */
 
