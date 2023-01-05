@@ -2,9 +2,7 @@
 A green focused theme for Standard Notes. Some colors were used from the default "Dark" theme.
 
 ## Editing
-No changes are being accepted into this repository, but you can fork it and make your own version. Or if you want to make a theme by yourself you can see how I did it below.
-
-[GUIDE TODO]
+No changes are being accepted into this repository, but you can fork it and make your own version. There are some variables defined at the top of [dist/main.css] you can change to edit simple things like the accent color.
 
 ## Importing
 In Standard Notes:
