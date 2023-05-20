@@ -8,4 +8,4 @@ No changes are being accepted into this repository, but you can fork it and make
 In Standard Notes:
 Menu -> Settings -> General -> Scroll to 'Advance Settings' -> Install External Package -> Enter The URL & Install -> Enable Theme In Apperance Settings.
 
-`https://listed.to/p/lMsEk4KXez`  
+`https://raw.githubusercontent.com/TheLimifiedLime/green-dark-theme/main/metadata.json`  
