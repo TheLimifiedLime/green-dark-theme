@@ -11,8 +11,6 @@
     "foreground_color": "#ffffff",
     "border_color": "#086DD6"
   },
-  "url": "https://thelimifiedlime.github.io/green-dark-theme/dist/main.css",
-  "download_url": "https://github.com/TheLimifiedLime/green-dark-theme/archive/refs/tags/2.0.0.zip",
-  "latest_url": "https://thelimifiedlime.github.io/green-dark-theme/dist/main.css",
+  "url": "http://localhost:5500/dist/main.css",
   "marketing_url": "https://github.com/TheLimifiedLime/green-dark-theme/"
 }

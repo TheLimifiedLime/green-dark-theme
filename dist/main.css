@@ -1,7 +1,7 @@
 :root {
   /* Our Own Variables */
   --accent-color: #2ecc71;
-  --accent-secondary-color: #2ecc71;
+  --accent-secondary-color: #1e8148;
   --background-color: #0F1011;
   --foreground-color: #1C1D1E;
   --border-color: var(--foreground-color);
@@ -12,6 +12,8 @@
 
   --navigation-item-selected-background-color: var(--background-color); /* Navigation Icon Selected Background Color - NOTE: This was added after the theme guide boilerplate */
   --sn-stylekit-passive-color-3: var(--foreground-color);
+  --sn-stylekit-passive-color-5: var(--accent-secondary-color);
+  
 
   /* Normal Selectors */
 
@@ -37,7 +39,8 @@
 
   --sn-stylekit-contrast-background-color: var(--note-selected-color); /* Note Selected Color */
   --sn-stylekit-contrast-foreground-color: var(--text-color); /* Text Color For Note Column Header, Apperance Items, & Setting/Apperance Taskbar Icons */
-  --sn-stylekit-contrast-border-color: #e3e3e3;
+  /* --sn-stylekit-contrast-border-color: #e3e3e3; */
+  --sn-stylekit-contrast-border-color: var(--background-color); /* Desktop App Nav Bar Bottom Border Color */
 
   --sn-stylekit-secondary-background-color: var(--foreground-color); /* Navigation Column Background Color */
   --sn-stylekit-secondary-foreground-color: var(--text-color); /* Navigation Column Text Color */
