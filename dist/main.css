@@ -1,6 +1,7 @@
 :root {
   /* Our Own Variables */
   --accent-color: #2ecc71;
+  --accent-secondary-color: #2ecc71;
   --background-color: #0F1011;
   --foreground-color: #1C1D1E;
   --border-color: var(--foreground-color);
