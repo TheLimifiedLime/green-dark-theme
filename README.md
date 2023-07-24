@@ -11,4 +11,4 @@ No changes are being accepted into this repository, but you can fork it and make
 In Standard Notes:
 Menu -> Settings -> General -> Scroll to 'Advance Settings' -> Install External Package -> Enter The URL & Install -> Enable Theme In Appearance Settings.
 
-`https://thelimifiedlime.github.io/green-dark-theme/ext.json`
+`https://listed.to/p/INv6eoT9Tn`
