@@ -4,7 +4,7 @@ A green focused theme for Standard Notes. Some colors were used from the default
 
 ## Editing
 
-No changes are being accepted into this repository, but you can fork it and make your own version. There are some variables defined at the top of [dist/main.css] you can change to edit simple things like the accent color.
+No changes are being accepted into this repository, but you can fork it and make your own version. There are some variables defined at the top of [dist/main.css](dist/main.css) you can change to edit simple things like the accent color.
 
 ## Importing
 
