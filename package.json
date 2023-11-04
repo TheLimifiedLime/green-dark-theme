@@ -1,6 +1,6 @@
 {
     "name": "green-dark-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "sn": {
       "main": "dist/main.css"
     }
