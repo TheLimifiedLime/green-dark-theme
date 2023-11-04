@@ -47,7 +47,7 @@
   --sn-stylekit-secondary-foreground-color: var(--text-color); /* Navigation Column Text Color */
   --sn-stylekit-secondary-border-color: #e3e3e3;
 
-  --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
+  --sn-stylekit-secondary-contrast-background-color: var(--background-color); /* Navigation Color Scroll Bar Color */
   --sn-stylekit-secondary-contrast-foreground-color: #2e2e2e;
   --sn-styleki--secondary-contrast-border-color: #a2a2a2;
 
