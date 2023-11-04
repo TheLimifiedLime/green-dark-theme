@@ -40,7 +40,6 @@
 
   --sn-stylekit-contrast-background-color: var(--note-selected-color); /* Note Selected Color */
   --sn-stylekit-contrast-foreground-color: var(--text-color); /* Text Color For Note Column Header, Apperance Items, & Setting/Apperance Taskbar Icons */
-  /* --sn-stylekit-contrast-border-color: #e3e3e3; */
   --sn-stylekit-contrast-border-color: var(--background-color); /* Desktop App Nav Bar Bottom Border Color */
 
   --sn-stylekit-secondary-background-color: var(--foreground-color); /* Navigation Column Background Color */
@@ -59,7 +58,7 @@
   --sn-stylekit-input-placeholder-color: rgb(168, 168, 168);
   --sn-stylekit-input-border-color: #e3e3e3;
 
-  --sn-stylekit-scrollbar-thumb-color: #dfdfdf;
+  --sn-stylekit-scrollbar-thumb-color: var(--accent-color); /* Scrollbar Color */
   --sn-stylekit-scrollbar-track-border-color: #e7e7e7;
 
   --sn-stylekit-general-border-radius: 2px;

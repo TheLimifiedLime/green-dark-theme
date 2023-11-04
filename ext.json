@@ -3,7 +3,7 @@
   "name": "Dark Green",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A green focused theme for Standard Notes",
   "dock_icon": {
     "type": "circle",
