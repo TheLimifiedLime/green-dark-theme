@@ -33,7 +33,7 @@
   --sn-stylekit-danger-color: #f80324;
   --sn-stylekit-danger-contrast-color: white;
 
-  --sn-stylekit-shadow-color: #c8c8c8;
+  --sn-stylekit-shadow-color: #000000; /* Hides "Shadow" in Focus Mode */
   --sn-stylekit-background-color: var(--background-color); /* Note Column Background Color */
   --sn-stylekit-border-color: var(--border-color); /* Border Lines Color */
   --sn-stylekit-foreground-color: var(--text-color);  /* Text Color for Note Column & Editor */
