@@ -1,6 +1,6 @@
 # Green Dark Theme
 
-## NOTE - This theme is currently not being updates. Future updates are possible but may not be any time soon
+## NOTE - This theme is currently not being updated. Future updates are possible but may not be any time soon
 
 A green focused theme for Standard Notes. Some colors were used from the default "Dark" theme.
 
